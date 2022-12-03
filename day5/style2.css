@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-image: url(background.jpg);
+    position:center;
+    background-size:cover;
+    height: 100%;
+    width: 100%;
+
+}
+.style-1{
+    height: 50px;
+    background-color: rgb(132,216,6);
+    margin: 20px;
+}
+.style-div{
+    width: 22%;
+    height: 300px;
+    margin: 20px;
+    float: left;
+}
+
+
+img{
+    width: 322px;
+    height: 300px;
+    
+}
+.main{
+    column-gap: 10px;
+    row-gap: 10px;
+}
+.last-div{
+    height: 50px;
+    float:left;
+    width: 100%;
+    background-color: rgb(9,109,3);
+}

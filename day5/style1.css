@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+.div1{
+    width:600px;
+    height:250px;
+    float:left;
+}
+.div2{
+    width:50%;
+    height:250px;
+    float:left;
+}
+.div3{
+    width: 30%;
+    height: 250px;
+    float: left;
+    background-color: aqua;
+}
+.div4{
+    width:70%;
+    height: 250px;
+    float: left;
+    background-color: rgb(52,199,235);
+}
+h5{
+    margin-bottom: 0;
+    margin-left: 15px;
+    color:rgb(165,160,154);
+}
